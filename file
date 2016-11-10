@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main(int argc, char* argv[])
+{
+  cout << "There are single file lines." << endl;
+  cout << "So how is it that there's no such a thing as a double file line?" << endl;
+}
