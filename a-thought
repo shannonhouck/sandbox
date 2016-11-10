@@ -1,0 +1,6 @@
+#import <iostream>
+
+int main(int argc, char* args[])
+{
+  cout << "Triatomic hydrogen is pretty cool." << endl;
+}
